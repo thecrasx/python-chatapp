@@ -1,0 +1,38 @@
+
+
+
+- Client
+    [Changed] ImageLoader
+
+
+
+- Window
+    [Changed] Window
+
+
+
+- UI
+    [Changed] ButtonFunctions
+    [Changed] Buttons
+    [Changed] ChatManager
+    [Changed] ChatUI
+    [Changed] FriendsUI
+    [Changed] CustomSignals
+    [+] Friends
+    [+] FriendsSearch
+
+
+
+
+- Connection_UI
+    [Changed] ConnectionUI
+    [Changed] Login
+    [+] DataLoad
+
+
+
+- Connection
+    [Changed] Account
+    [Changed] Connection
+    [Changed] Request
+    [Changed] Response

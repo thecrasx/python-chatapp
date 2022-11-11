@@ -1,0 +1,187 @@
+{
+
+    "global": {
+        "font-family": "",
+        "background": ""
+    },
+
+
+    "title-bar": {
+        "background": "",
+        "color": "",
+
+        "title": {
+            "color": ""
+        },
+
+
+        "buttons": {
+            "state": {
+                "normal": {
+                    "background": "",
+                    "color": ""
+                },
+
+                "push": {
+                    "background": "",
+                    "color": ""
+                },
+
+                "hover": {
+                    "background": "",
+                    "color": ""
+                }
+            }
+        }
+    },
+
+    
+    "indentification-screen": {
+        "background": "",
+
+        "box": {
+            "background": "",
+            "text-color": "",
+
+            "input-area": {
+                "color": "",
+                "state": {
+                    "normal": {
+                        "background": ""
+                    },
+    
+                    "push": {
+                        "background": ""
+                    },
+    
+                    "hover": {
+                        "background": ""
+                    }
+                }
+            },
+
+            "buttons": {
+                "state": {
+                    "normal": {
+                        "background": "",
+                        "color": ""
+                    },
+    
+                    "push": {
+                        "background": "",
+                        "color": ""
+                    },
+    
+                    "hover": {
+                        "background": "",
+                        "color": ""
+                    }
+                }
+            },
+            
+            "link-buttons": {
+                "state": {
+                    "normal": {
+                        "background": "",
+                        "color": ""
+                    },
+    
+                    "push": {
+                        "background": "",
+                        "color": ""
+                    },
+    
+                    "hover": {
+                        "background": "",
+                        "color": ""
+                    }
+                }
+            },
+
+            "combo-box":{
+                "color": "",
+                
+                "state": {
+                    "normal": {
+                        "background": ""
+                    },
+    
+                    "push": {
+                        "background": ""
+                    },
+    
+                    "hover": {
+                        "background": ""
+                    }
+                }
+            }
+
+
+
+        }
+    },
+
+    "recent-chat": {
+        "main": {
+            "class-name": "QFrame",
+
+            "normal": {
+                "background": "#1E1F23",
+                "border": "2px solid transparent",
+                "border-radius": "7px"
+            },
+
+            "hover": {
+                "background": "#27282D",
+                "border": "2px solid transparent",
+                "border-bottom": "2px solid #0b0b0e",
+                "border-right": "2px solid #17171c",
+                "border-radius": "7px"
+            },
+
+            "pressed": {
+                "background": "#1E1F23",
+                "border": "2px solid transparent",
+                "border-bottom": "2px solid #0b0b0e",
+                "border-right": "2px solid #17171c",
+                "border-left": "2px  solid #cc00cc",
+                "border-radius": "7px"
+            }
+        },
+
+        "username-frame": {
+            "class-name": "QFrame",
+            
+            "normal": {
+                "background": "#1E1F23"
+            },
+
+            "hover": {
+                "background": "#27282D"
+            },
+
+            "pressed": {
+                "background": "#1E1F23"
+            }
+        },
+
+        "button-frame": {
+            "class-name": "QFrame",
+            
+            "normal": {
+                "background": "#1E1F23"
+            },
+
+            "hover": {
+                "background": "#27282D"
+            },
+
+            "pressed": {
+                "background": "#1E1F23"
+            }
+        }
+        
+    
+    }
+    
+}

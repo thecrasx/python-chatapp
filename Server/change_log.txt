@@ -1,0 +1,18 @@
+
+
+- Connection
+    [Changed] ClientCredentials
+    [Changed] ClientHandler
+    [Changed] Connections
+    [Changed] RequestHandler
+    [Changed] Request
+    [Changed] Response
+
+
+
+
+- SQLite
+    [Changed] SQLiteFunctions
+    [Changed] SQLiteServer
+    [Changed] SQLiteClient
+    [Changed] Schema
